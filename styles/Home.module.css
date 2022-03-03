@@ -114,3 +114,9 @@
     flex-direction: column;
   }
 }
+
+.flippy-front, .flippy-back {
+  padding: 0em;
+  background: none;
+  box-shadow: none;
+}
